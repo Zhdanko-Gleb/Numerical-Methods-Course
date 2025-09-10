@@ -5,7 +5,7 @@
 
 ## Overview
 
-Implementation of 5 computer projects covering fundamental numerical methods for solving ordinary and partial differential equations. Each project includes comprehensive technical reports and working code implementations in Python/MATLAB.
+Implementation of 5 computer projects covering fundamental numerical methods for solving ordinary and partial differential equations. Each project includes comprehensive technical reports and working code implementations in Python.
 
 ## Projects
 
